@@ -1,2 +1,2 @@
-# Vacuum Bot Documentation
-This project is a documentation of 2WD Arduino-based Vacuum mobile robot that cleans dirt on the floor. 
+# Smart Vacuum Cleaner Robot Documentation
+This is the documentation for the 2WD Arduino-based Vacuum mobile robot project. 
